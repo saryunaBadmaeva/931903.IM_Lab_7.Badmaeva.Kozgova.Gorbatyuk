@@ -1,0 +1,20 @@
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\bin\Debug\931903.gorbatyuk.anastasiya.lab7.exe.config
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\bin\Debug\931903.gorbatyuk.anastasiya.lab7.exe
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\bin\Debug\931903.gorbatyuk.anastasiya.lab7.pdb
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.csproj.AssemblyReference.cache
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\_931903.gorbatyuk.anastasiya.lab7.Form1.resources
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\_931903.gorbatyuk.anastasiya.lab7.Properties.Resources.resources
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.csproj.GenerateResource.cache
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.csproj.CoreCompileInputs.cache
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.exe
+C:\Users\nasty\OneDrive\IT специальность\6 семестр\Имитационное моделирование\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.pdb
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\bin\Debug\931903.gorbatyuk.anastasiya.lab7.exe.config
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\bin\Debug\931903.gorbatyuk.anastasiya.lab7.exe
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\bin\Debug\931903.gorbatyuk.anastasiya.lab7.pdb
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.csproj.AssemblyReference.cache
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\_931903.gorbatyuk.anastasiya.lab7.Form1.resources
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\_931903.gorbatyuk.anastasiya.lab7.Properties.Resources.resources
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.csproj.GenerateResource.cache
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.csproj.CoreCompileInputs.cache
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.exe
+C:\Users\badma\OneDrive\Рабочий стол\931903.gorbatyuk.kozgova.badmaeva.lab7-main\931903.gorbatyuk.anastasiya.lab7\931903.gorbatyuk.anastasiya.lab7\obj\Debug\931903.gorbatyuk.anastasiya.lab7.pdb
